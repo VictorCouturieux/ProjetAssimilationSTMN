@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbcfdccd-ad6b-4794-b3d7-fa0199c90d8e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ProjetSkyFlyENJMIN/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetSkyFlyENJMIN/Assets/Scenes/SFB_GameScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetSkyFlyENJMIN/Assets/Scenes/SFB_GameScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetSkyFlyENJMIN/Packages/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetSkyFlyENJMIN/ProjectSettings/AudioManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetSkyFlyENJMIN/ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetSkyFlyENJMIN/ProjectSettings/DynamicsManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetSkyFlyENJMIN/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetSkyFlyENJMIN/ProjectSettings/EditorSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetSkyFlyENJMIN/ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetSkyFlyENJMIN/ProjectSettings/InputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetSkyFlyENJMIN/ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetSkyFlyENJMIN/ProjectSettings/NetworkManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetSkyFlyENJMIN/ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetSkyFlyENJMIN/ProjectSettings/PresetManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetSkyFlyENJMIN/ProjectSettings/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetSkyFlyENJMIN/ProjectSettings/ProjectVersion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetSkyFlyENJMIN/ProjectSettings/QualitySettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetSkyFlyENJMIN/ProjectSettings/TagManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetSkyFlyENJMIN/ProjectSettings/TimeManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetSkyFlyENJMIN/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-215123884">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="39" />
+          <entry key="project.open.time.10" value="8" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="15" />
+          <entry key="project.open.time.9" value="9" />
+          <entry key="project.opened" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="23687" />
+          <entry key="shader" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="23687" />
+          <entry key="ShaderLab" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="261" />
+          <entry key="prefab" value="1" />
+          <entry key="shader" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="261" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="ShaderLab" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1054006162">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/managerArchitecture/SFB_SoundManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="554">
+              <caret line="77" column="18" lean-forward="true" selection-start-line="77" selection-start-column="18" selection-end-line="78" selection-end-column="59" />
+              <folding>
+                <marker date="1560613202238" expanded="true" signature="6:162" ph="..." />
+                <marker date="1560613202238" expanded="true" signature="164:736" ph="/// Created by COUTURIEUX VICTOR ... " />
+                <marker date="1560613202238" expanded="true" signature="783:9440" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="789:962" ph="/// &lt;value&gt; ... " />
+                <marker date="1560613202238" expanded="true" signature="1070:1120" ph="/// &lt;value&gt; ... " />
+                <marker date="1560613202238" expanded="true" signature="1271:1328" ph="/// &lt;value&gt; ... " />
+                <marker date="1560613202238" expanded="true" signature="1697:1825" ph="/// &lt;value&gt; ... " />
+                <marker date="1560613202238" expanded="true" signature="1850:2139" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="2146:2235" ph="/// Awake is always called before any Start functions ... " />
+                <marker date="1560613202238" expanded="true" signature="2253:2320" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="2326:2748" ph="/// this is to call when the GameManager changes Unity scene. ... " />
+                <marker date="1560613202238" expanded="true" signature="2822:4925" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="2824:2916" ph="/* Debug.Log(&quot;Log Sound Manager&quot;); ... */" />
+                <marker date="1560613202238" expanded="true" signature="3013:3177" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="3066:3167" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="3251:3415" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="3304:3405" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="3485:3641" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="3534:3631" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="3713:3877" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="3766:3867" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="3944:4225" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="4002:4215" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="4292:4572" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="4350:4562" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="4639:4919" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="4697:4909" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="5002:5009" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="5015:5299" ph="/// Update is called once per frame ... " />
+                <marker date="1560613202238" expanded="true" signature="5318:7089" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="5407:5418" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="5516:5527" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="5621:5632" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="5728:5739" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="5830:6187" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="5888:6177" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="5934:6163" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="6278:6635" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="6336:6625" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="6382:6611" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="6726:7083" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="6784:7073" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="6830:7059" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="7095:7383" ph="/// can be call in all unity scene to play specific sound effect ... " />
+                <marker date="1560613202238" expanded="true" signature="7451:9438" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="7587:9134" ph="{...}" />
+                <marker date="1560613202238" expanded="true" signature="9163:9432" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>OnHealthPctChanged</find>
+      <find>SetActive</find>
+      <find>timer</find>
+      <find>time</find>
+      <find>destroyObject</find>
+      <find>selPos</find>
+      <find>moveVector</find>
+      <find>RotateCanon</find>
+      <find>PhotonButtons</find>
+      <find>IsFirst</find>
+      <find>spown0</find>
+      <find>_photonButtons</find>
+      <find>item</find>
+      <find>not use</find>
+      <find>timeDelay</find>
+      <find>materials</find>
+      <find>lastShipPosition</find>
+      <find>initSpownPlayer</find>
+      <find>lastRotation</find>
+      <find>dash instruction</find>
+      <find>RespownOtherPlayer</find>
+      <find>SynchEndDashRPC</find>
+      <find>SendNamePlayer</find>
+      <find>RespawnOtherPlayer</find>
+      <find>loss</find>
+      <find>HandleHealthChanged</find>
+      <find>user</find>
+      <find>Ship</find>
+      <find>SyncroPosition</find>
+      <find>MainMenuTheme</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>rotation</replace>
+      <replace>private</replace>
+      <replace>public</replace>
+      <replace>public static</replace>
+      <replace>SceneManager.GetActiveScene().nam</replace>
+      <replace>SceneManager.GetActiveScene().name</replace>
+      <replace>PhotonView</replace>
+      <replace>vectDir</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/networksUI/SFB_PhotonButtons.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Graphism/ship/Asset3D/shader/PostEffectScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Graphism/props/navire.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/managerArchitecture/SFB_SoundManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/networksUI/SFB_ShowMasterName.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/MakeSomeNoise.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/networksUI/SFB_MouseEntrerLevelButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Graphism/ship/Asset3D/shader/NewImageEffectShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/playSound/SFB_SoundLevelMusique.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/playSound/SFB_BackSoundFX.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Graphism/ship/Asset3D/shader/postEffectShaper.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/playSound/SFB_AccessSoudFX.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/ship/SFB_ShipSpeed.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/ErgonomieLevel/panelLobbyTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/Level/Level0.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/ship/SFB_ShooterFireCanon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/Level/Level1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/ship/SFB_HealthShip.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/ParticleSystems/Scripts/SmokeParticles.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/ship/SFB_RotateCanon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/Level/Level.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/ship/SFB_ShipMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/ship/SFB_ShipStatement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/DialogPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/ParticleSystems/Scripts/ParticleSystemMultiplier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/ScrollingScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/HealthBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/player_s/SFB_PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/player_s/SFB_AutoDestroyParticleSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/HealthScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/player_s/SFB_ChangeColorPlayers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/DestroyExplosion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/DestroyBackgroundObj.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon Unity Networking/UtilityScripts/SupportLogger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/FollowerEnemyApparition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/FollowerEnemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/Projectile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/ShipDestruction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/NetworkManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/managerArchitecture/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon Unity Networking/Plugins/PhotonNetwork/SocketWebTcp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/ShotScript.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/SFB_ShipStatement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/SFB_ChangeColorPlayers.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/Level/Level.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/Canon/ShooterFireCanon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/DestroyExplosion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/ShotScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/SFB_AccessSoudFX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneMorgan/Scripts/MainMenuPlayGameButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/SFB_BackSoundFX.cs" />
+        <option value="$PROJECT_DIR$/Assets/SFB_SoundLevelMusique.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/SFB_MouseEntrerLevelButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneMorgan/Scripts/SelectionLevelButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/scriptManager/SFB_SoundManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/HealthScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/HealthBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/SFB_HealthShip.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneMorgan/Scripts/RoomListing.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/scriptManager/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneMorgan/Scripts/RoomLayoutGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/SFB_ShowMastername.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/SFB_ShowMasterName.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/scriptManager/SFB_PlayerManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneMorgan/Scripts/LoadLevelScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/SFB_PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/Canon/SFB_RotateCanon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/testPhoton/PhotonButtons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/Canon/SFB_ShooterFireCanon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/testPhoton/SFB_PhotonButtons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/scriptManager/SFB_NetworkManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/ArchitectureManager/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/ArchitectureManager/SFB_SoundManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/ArchitectureManager/SFB_PlayerManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/Player_s/SFB_AutoDestroyParticleSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/NetworksUI/SFB_ShowMasterName.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/Player_s/SFB_ChangeColorPlayers.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/PlaySound/SFB_BackSoundFX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/PlaySound/SFB_AccessSoudFX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/PlaySound/SFB_SoundLevelMusique.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/NetworksUI/SFB_MouseEntrerLevelButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/Ship/SFB_HealthShip.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/Ship/SFB_ShipSpeed.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/Ship/SFB_RotateCanon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/Player_s/SFB_PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/Ship/SFB_ShipMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/Ship/SFB_ShipStatement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/Ship/SFB_ShooterFireCanon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/NetworksUI/SFB_PhotonButtons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/ArchitectureManager/SFB_NetworkManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/ship/SFB_ShooterFireCanon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Graphism/ship/Asset3D/shader/PostEffectScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Graphism/ship/Asset3D/shader/postEffectShaper.shader" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="955" />
+    <option name="y" value="2" />
+    <option name="width" value="972" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scenes" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scenes" type="1045f7f1:UnityExplorerNode" />
+              <item name="IndividualTestScene" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scenes" type="1045f7f1:UnityExplorerNode" />
+              <item name="IndividualTestScene" type="1045f7f1:UnityExplorerNode" />
+              <item name="SceneVictor" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scenes" type="1045f7f1:UnityExplorerNode" />
+              <item name="IndividualTestScene" type="1045f7f1:UnityExplorerNode" />
+              <item name="SceneVictor" type="1045f7f1:UnityExplorerNode" />
+              <item name="scriptTOTOR" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scenes" type="1045f7f1:UnityExplorerNode" />
+              <item name="IndividualTestScene" type="1045f7f1:UnityExplorerNode" />
+              <item name="SceneVictor" type="1045f7f1:UnityExplorerNode" />
+              <item name="scriptTOTOR" type="1045f7f1:UnityExplorerNode" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scenes" type="1045f7f1:UnityExplorerNode" />
+              <item name="IndividualTestScene" type="1045f7f1:UnityExplorerNode" />
+              <item name="SceneVictor" type="1045f7f1:UnityExplorerNode" />
+              <item name="scriptTOTOR" type="1045f7f1:UnityExplorerNode" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+              <item name="managerArchitecture" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scenes" type="1045f7f1:UnityExplorerNode" />
+              <item name="IndividualTestScene" type="1045f7f1:UnityExplorerNode" />
+              <item name="SceneVictor" type="1045f7f1:UnityExplorerNode" />
+              <item name="scriptTOTOR" type="1045f7f1:UnityExplorerNode" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+              <item name="playSound" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scenes" type="1045f7f1:UnityExplorerNode" />
+              <item name="IndividualTestScene" type="1045f7f1:UnityExplorerNode" />
+              <item name="SceneVictor" type="1045f7f1:UnityExplorerNode" />
+              <item name="scriptTOTOR" type="1045f7f1:UnityExplorerNode" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+              <item name="ship" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbcfdccd-ad6b-4794-b3d7-fa0199c90d8e" name="Default Changelist" comment="" />
+      <created>1556200282047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556200282047</updated>
+      <workItem from="1556200287869" duration="4081000" />
+      <workItem from="1556292418341" duration="300000" />
+      <workItem from="1556360595229" duration="729000" />
+      <workItem from="1556474366170" duration="834000" />
+      <workItem from="1556724341873" duration="81000" />
+      <workItem from="1556724522930" duration="1191000" />
+      <workItem from="1557256772188" duration="10515000" />
+      <workItem from="1557331661185" duration="1167000" />
+      <workItem from="1557348734677" duration="2850000" />
+      <workItem from="1557513322578" duration="7310000" />
+      <workItem from="1557687303816" duration="2659000" />
+      <workItem from="1557732809354" duration="3920000" />
+      <workItem from="1557742187321" duration="2945000" />
+      <workItem from="1557749561420" duration="9049000" />
+      <workItem from="1558044336572" duration="423000" />
+      <workItem from="1558107190171" duration="3388000" />
+      <workItem from="1558183467404" duration="12685000" />
+      <workItem from="1558266611494" duration="13601000" />
+      <workItem from="1558281445951" duration="12834000" />
+      <workItem from="1558427792114" duration="21483000" />
+      <workItem from="1558510253508" duration="26480000" />
+      <workItem from="1558718925896" duration="8239000" />
+      <workItem from="1558794176571" duration="17077000" />
+      <workItem from="1558891532489" duration="7587000" />
+      <workItem from="1558981757661" duration="10514000" />
+      <workItem from="1559236391589" duration="8400000" />
+      <workItem from="1559327390851" duration="11881000" />
+      <workItem from="1559391272306" duration="6830000" />
+      <workItem from="1559400991021" duration="18531000" />
+      <workItem from="1559478365689" duration="19536000" />
+      <workItem from="1559588249536" duration="1867000" />
+      <workItem from="1559762209758" duration="2666000" />
+      <workItem from="1560174013101" duration="669000" />
+      <workItem from="1560599851414" duration="34044000" />
+      <workItem from="1560637989507" duration="1848000" />
+      <workItem from="1560697325671" duration="3825000" />
+      <workItem from="1560773709027" duration="630000" />
+      <workItem from="1560803180454" duration="68000" />
+      <workItem from="1560803375688" duration="774000" />
+      <workItem from="1569490471539" duration="1296000" />
+      <workItem from="1571560362022" duration="2497000" />
+      <workItem from="1619721907666" duration="2935000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="300239000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="955" y="2" width="972" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20285088" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11353944" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneMorgan/Scripts/MainMenuPlayGameButton.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="854">
+          <caret line="3111" selection-start-line="3111" selection-end-line="3111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/FollowerEnemy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/scriptManager/SFB_SoundManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/HealthBar.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/scriptManager/GameManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/scriptManager/SFB_PlayerManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/SFB_ShowMasterName.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/DestroyExplosion.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneMorgan/Scripts/RoomListing.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/Canon/RotateCanon.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/HealthScript.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneMorgan/Scripts/LoadLevelScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/testPhoton/PhotonButtons.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/testPhoton/PlayerMove.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/testPhoton/PhotonConnect.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/testPhoton/MenuMogic.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/testPhoton/SFB_PhotonButtons.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/Canon/SFB_ShooterFireCanon.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneMorgan/Scripts/RoomLayoutGroup.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/SFB_PlayerMovement.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/scriptManager/SFB_NetworkManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/SFB_HealthShip.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/Canon/SFB_RotateCanon.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/ArchitectureManager/SFB_SoundManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/player_s/SFB_AutoDestroyParticleSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/playSound/SFB_BackSoundFX.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/playSound/SFB_SoundLevelMusique.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="5" selection-start-line="5" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/player_s/SFB_ChangeColorPlayers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" selection-start-line="4" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/ship/SFB_ShipSpeed.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/ship/SFB_ShipMove.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="63" column="38" lean-forward="true" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/Level/Level.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="190" column="16" selection-start-line="190" selection-start-column="16" selection-end-line="190" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/ScenePierre/Scripts/ShotScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/ship/SFB_RotateCanon.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="66" column="105" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/ArchitectureManager/GameManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/ArchitectureManager/SFB_NetworkManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/ArchitectureManager/SFB_PlayerManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/player_s/SFB_PlayerMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6358">
+          <caret line="385" column="59" selection-start-line="385" selection-start-column="30" selection-end-line="385" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/playSound/SFB_AccessSoudFX.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Graphism/ship/Asset3D/shader/NewImageEffectShader.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Graphism/ship/Asset3D/shader/PostEffectScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Graphism/ship/Asset3D/shader/postEffectShaper.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="659">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../ENJAM_2019/MortImminente/Mort Imminente/Assets/Script/AudioManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/ship/SFB_ShooterFireCanon.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <marker date="1560820594986" expanded="false" signature="6:85" ph="..." />
+            <marker date="1560820594986" expanded="true" signature="87:317" ph="/// Created by COUTURIEUX VICTOR  ... " />
+            <marker date="1560820594986" expanded="true" signature="991:1077" ph="/// Start is called before the first frame update ... " />
+            <marker date="1560820594986" expanded="true" signature="1095:1155" ph="{...}" />
+            <marker date="1560820594986" expanded="true" signature="1161:1344" ph="/// if a player use the button then you start the timer to shoot a cannonball ... " />
+            <marker date="1560820594986" expanded="true" signature="1393:1655" ph="{...}" />
+            <marker date="1560820594986" expanded="true" signature="1493:1649" ph="{...}" />
+            <marker date="1560820594986" expanded="true" signature="1542:1639" ph="{...}" />
+            <marker date="1560820594986" expanded="true" signature="1661:1841" ph="/// if a player leave the button then stop the timer to shoot a cannonball ... " />
+            <marker date="1560820594986" expanded="true" signature="1889:2102" ph="{...}" />
+            <marker date="1560820594986" expanded="true" signature="1989:2096" ph="{...}" />
+            <marker date="1560820594986" expanded="true" signature="2038:2086" ph="{...}" />
+            <marker date="1560820594986" expanded="true" signature="2108:2328" ph="/// FixedUpdate() has the frequency of the physics system; it is called every fixed frame-rate frame. ... " />
+            <marker date="1560820594986" expanded="true" signature="2352:2422" ph="{...}" />
+            <marker date="1560820594986" expanded="true" signature="2375:2416" ph="{...}" />
+            <marker date="1560820594986" expanded="true" signature="2428:2575" ph="/// the cannon is shooting ... " />
+            <marker date="1560820594986" expanded="true" signature="2602:3039" ph="{...}" />
+            <marker date="1560820594986" expanded="true" signature="2837:2914" ph="{...}" />
+            <marker date="1560820594986" expanded="true" signature="2914:3033" ph="{...}" />
+            <marker date="1560820594986" expanded="true" signature="3045:3389" ph="/// is RPC method ... " />
+            <marker date="1560820594986" expanded="true" signature="3469:3662" ph="{...}" />
+            <marker date="1560820594986" expanded="true" signature="3569:3620" ph="{...}" />
+            <marker date="1560820594986" expanded="true" signature="3668:3802" ph="/// method to creat a new cannonballs ... " />
+            <marker date="1560820594986" expanded="true" signature="3853:4531" ph="{...}" />
+            <marker date="1560820594986" expanded="true" signature="4537:4988" ph="/// synchronization method used by PhotonView Object to send and receive network player information ... " />
+            <marker date="1560820594986" expanded="true" signature="5073:5080" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/ship/SFB_ShipStatement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4437">
+          <caret line="264" column="66" selection-start-line="264" selection-start-column="66" selection-end-line="264" selection-end-column="66" />
+          <folding>
+            <marker date="1560630412304" expanded="false" signature="6:113" ph="..." />
+            <marker date="1560630412304" expanded="true" signature="115:297" ph="/// Created by COUTURIEUX VICTOR ... " />
+            <marker date="1560630412304" expanded="true" signature="351:458" ph="/// &lt;value&gt; ... " />
+            <marker date="1560630412304" expanded="true" signature="1095:1232" ph="/// &lt;value&gt; ... " />
+            <marker date="1560630412304" expanded="true" signature="1397:1475" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="1682:1768" ph="/// Start is called before the first frame update ... " />
+            <marker date="1560630412304" expanded="true" signature="1786:1836" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="1842:2150" ph="/// FixedUpdate() has the frequency of the physics system; it is called every fixed frame-rate frame. ... " />
+            <marker date="1560630412304" expanded="true" signature="2174:10222" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="2277:2341" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="2401:2465" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="2465:2521" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="2626:3406" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="2681:3396" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="2723:2883" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="2901:3382" ph="/* IDEA OF OF NETWORK CODE TESTING  : not work ... */" />
+            <marker date="1560630412304" expanded="true" signature="3416:3832" ph="/* local lateral ship movement for all player ... */" />
+            <marker date="1560630412304" expanded="true" signature="3888:4053" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="4114:4279" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="4385:4498" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="4761:6533" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="4822:6523" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="4892:5355" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="5100:5272" ph="/* RPC method create by BILLAUD PIERRE called to change the speed scrolling to slow ... */" />
+            <marker date="1560630412304" expanded="true" signature="5429:5892" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="5636:5807" ph="/* RPC method create by BILLAUD PIERRE called to change the speed scrolling to fast ... */" />
+            <marker date="1560630412304" expanded="true" signature="6041:6509" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="6247:6428" ph="/* RPC method create by BILLAUD PIERRE called to change the speed scrolling to a normal speed ... */" />
+            <marker date="1560630412304" expanded="true" signature="6632:10216" ph="/* IDEA OF OF NETWORK CODE TESTING  : not work ... */" />
+            <marker date="1560630412304" expanded="true" signature="10228:10399" ph="/// call RPC method when driver player leave lateral movement button ... " />
+            <marker date="1560630412304" expanded="true" signature="10445:10703" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="10486:10569" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="10569:10697" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="10709:11031" ph="/// is RPC method ... " />
+            <marker date="1560630412304" expanded="true" signature="11117:11986" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="11127:11796" ph="/* IDEA OF OF NETWORK CODE TESTING  : not work ... */" />
+            <marker date="1560630412304" expanded="true" signature="11992:12416" ph="/// synchronization method used by PhotonView Object to send and receive network player information on the ship ... " />
+            <marker date="1560630412304" expanded="true" signature="12501:12943" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="12533:12788" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="12581:12778" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="12665:12721" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="12788:12937" ph="{...}" />
+            <marker date="1560630412304" expanded="true" signature="12851:12927" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/ship/SFB_HealthShip.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="76" column="9" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
+          <folding>
+            <marker date="1560622133031" expanded="false" signature="6:78" ph="..." />
+            <marker date="1560622133031" expanded="true" signature="80:237" ph="/// Created by COUTURIEUX VICTOR in collaboration with BILLAUD PIERRE ... " />
+            <marker date="1560622133031" expanded="true" signature="488:495" ph="{...}" />
+            <marker date="1560622133031" expanded="true" signature="509:581" ph="/// Update is called once per frame ... " />
+            <marker date="1560622133031" expanded="true" signature="600:1451" ph="{...}" />
+            <marker date="1560622133031" expanded="true" signature="758:1445" ph="{...}" />
+            <marker date="1560622133031" expanded="true" signature="1461:1579" ph="/// used to lose ship health ... " />
+            <marker date="1560622133031" expanded="true" signature="1628:2354" ph="{...}" />
+            <marker date="1560622133031" expanded="true" signature="1661:2348" ph="{...}" />
+            <marker date="1560622133031" expanded="true" signature="2364:2815" ph="/// synchronization method used by PhotonView Object to send and receive network player information ... " />
+            <marker date="1560622133031" expanded="true" signature="2900:2907" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/managerArchitecture/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <marker date="1560613183274" expanded="false" signature="6:113" ph="..." />
+            <marker date="1560613183274" expanded="true" signature="115:428" ph="/// Created by COUTURIEUX VICTOR ... " />
+            <marker date="1560613183274" expanded="true" signature="854:938" ph="{...}" />
+            <marker date="1560613183274" expanded="true" signature="1147:1235" ph="{...}" />
+            <marker date="1560613183274" expanded="true" signature="1439:1525" ph="{...}" />
+            <marker date="1560613183274" expanded="true" signature="1668:1744" ph="{...}" />
+            <marker date="1560613183274" expanded="true" signature="1750:1884" ph="/// &lt;value&gt; ... " />
+            <marker date="1560613183274" expanded="true" signature="2414:2503" ph="/// Awake is always called before any Start functions ... " />
+            <marker date="1560613183274" expanded="true" signature="2521:3231" ph="{...}" />
+            <marker date="1560613183274" expanded="true" signature="2523:2606" ph="/* Debug.Log(&quot;init GameManager&quot;); ... */" />
+            <marker date="1560613183274" expanded="true" signature="3237:3659" ph="/// this is to call when the GameManager changes Unity scene. ... " />
+            <marker date="1560613183274" expanded="true" signature="3733:4544" ph="{...}" />
+            <marker date="1560613183274" expanded="true" signature="3867:3878" ph="{...}" />
+            <marker date="1560613183274" expanded="true" signature="3952:3963" ph="{...}" />
+            <marker date="1560613183274" expanded="true" signature="4033:4044" ph="{...}" />
+            <marker date="1560613183274" expanded="true" signature="4116:4127" ph="{...}" />
+            <marker date="1560613183274" expanded="true" signature="4194:4264" ph="{...}" />
+            <marker date="1560613183274" expanded="true" signature="4331:4401" ph="{...}" />
+            <marker date="1560613183274" expanded="true" signature="4468:4538" ph="{...}" />
+            <marker date="1560613183274" expanded="true" signature="4616:4623" ph="{...}" />
+            <marker date="1560613183274" expanded="true" signature="4682:4689" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/networksUI/SFB_PhotonButtons.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" column="63" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="63" />
+          <folding>
+            <marker date="1560613167427" expanded="false" signature="6:100" ph="..." />
+            <marker date="1560613167427" expanded="true" signature="102:244" ph="/// Created by COUTURIEUX VICTOR in collaboration with BUCHER MORGAN ... " />
+            <marker date="1560613167427" expanded="true" signature="298:392" ph="/// InputField instance ... " />
+            <marker date="1560613167427" expanded="true" signature="529:536" ph="{...}" />
+            <marker date="1560613167427" expanded="true" signature="542:594" ph="/// Create room ... " />
+            <marker date="1560613167427" expanded="true" signature="631:699" ph="{...}" />
+            <marker date="1560613167427" expanded="true" signature="705:755" ph="/// Join Room ... " />
+            <marker date="1560613167427" expanded="true" signature="790:861" ph="{...}" />
+            <marker date="1560613167427" expanded="true" signature="931:938" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/networksUI/SFB_ShowMasterName.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <marker date="1560613281823" expanded="false" signature="6:114" ph="..." />
+            <marker date="1560613281823" expanded="true" signature="116:277" ph="/// Created by COUTURIEUX VICTOR in collaboration with BUCHER MORGAN ... " />
+            <marker date="1560613281823" expanded="true" signature="332:407" ph="/// &lt;value&gt; ... " />
+            <marker date="1560613281823" expanded="true" signature="491:579" ph="{...}" />
+            <marker date="1560613281823" expanded="true" signature="662:669" ph="{...}" />
+            <marker date="1560613281823" expanded="true" signature="739:746" ph="{...}" />
+            <marker date="1560613281823" expanded="true" signature="752:882" ph="/// call by master player to show his name ... " />
+            <marker date="1560613281823" expanded="true" signature="917:1199" ph="{...}" />
+            <marker date="1560613281823" expanded="true" signature="961:1193" ph="{...}" />
+            <marker date="1560613281823" expanded="true" signature="1006:1059" ph="{...}" />
+            <marker date="1560613281823" expanded="true" signature="1059:1183" ph="{...}" />
+            <marker date="1560613281823" expanded="true" signature="1205:1372" ph="/// is RPC method  ... " />
+            <marker date="1560613281823" expanded="true" signature="1430:1473" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/networksUI/SFB_MouseEntrerLevelButton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
+          <folding>
+            <marker date="1560620853552" expanded="false" signature="6:100" ph="..." />
+            <marker date="1560620853552" expanded="true" signature="102:316" ph="/// Created by COUTURIEUX VICTOR in collaboration with BUCHER MORGAN ... " />
+            <marker date="1560620853552" expanded="true" signature="379:508" ph="/// &lt;value&gt; ... " />
+            <marker date="1560620853552" expanded="true" signature="552:618" ph="/// &lt;value&gt; ... " />
+            <marker date="1560620853552" expanded="true" signature="661:729" ph="/// &lt;value&gt; ... " />
+            <marker date="1560620853552" expanded="true" signature="758:833" ph="{...}" />
+            <marker date="1560620853552" expanded="true" signature="915:922" ph="{...}" />
+            <marker date="1560620853552" expanded="true" signature="928:1045" ph="/// call when mouse enter in the button to chose a level or go back to lobbyShip ... " />
+            <marker date="1560620853552" expanded="true" signature="1076:2601" ph="{...}" />
+            <marker date="1560620853552" expanded="true" signature="1120:2595" ph="{...}" />
+            <marker date="1560620853552" expanded="true" signature="1156:2585" ph="{...}" />
+            <marker date="1560620853552" expanded="true" signature="1255:1320" ph="{...}" />
+            <marker date="1560620853552" expanded="true" signature="1320:1464" ph="{...}" />
+            <marker date="1560620853552" expanded="true" signature="1585:1650" ph="{...}" />
+            <marker date="1560620853552" expanded="true" signature="1650:1794" ph="{...}" />
+            <marker date="1560620853552" expanded="true" signature="1915:1980" ph="{...}" />
+            <marker date="1560620853552" expanded="true" signature="1980:2124" ph="{...}" />
+            <marker date="1560620853552" expanded="true" signature="2245:2310" ph="{...}" />
+            <marker date="1560620853552" expanded="true" signature="2310:2454" ph="{...}" />
+            <marker date="1560620853552" expanded="true" signature="2607:2842" ph="/// is RPC method call when mouse of the master player is on specific zone ... " />
+            <marker date="1560620853552" expanded="true" signature="2903:3102" ph="{...}" />
+            <marker date="1560620853552" expanded="true" signature="2996:3045" ph="{...}" />
+            <marker date="1560620853552" expanded="true" signature="3161:3168" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/IndividualTestScene/SceneVictor/scriptTOTOR/Script/managerArchitecture/SFB_SoundManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="77" column="18" lean-forward="true" selection-start-line="77" selection-start-column="18" selection-end-line="78" selection-end-column="59" />
+          <folding>
+            <marker date="1560613202238" expanded="true" signature="6:162" ph="..." />
+            <marker date="1560613202238" expanded="true" signature="164:736" ph="/// Created by COUTURIEUX VICTOR ... " />
+            <marker date="1560613202238" expanded="true" signature="783:9440" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="789:962" ph="/// &lt;value&gt; ... " />
+            <marker date="1560613202238" expanded="true" signature="1070:1120" ph="/// &lt;value&gt; ... " />
+            <marker date="1560613202238" expanded="true" signature="1271:1328" ph="/// &lt;value&gt; ... " />
+            <marker date="1560613202238" expanded="true" signature="1697:1825" ph="/// &lt;value&gt; ... " />
+            <marker date="1560613202238" expanded="true" signature="1850:2139" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="2146:2235" ph="/// Awake is always called before any Start functions ... " />
+            <marker date="1560613202238" expanded="true" signature="2253:2320" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="2326:2748" ph="/// this is to call when the GameManager changes Unity scene. ... " />
+            <marker date="1560613202238" expanded="true" signature="2822:4925" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="2824:2916" ph="/* Debug.Log(&quot;Log Sound Manager&quot;); ... */" />
+            <marker date="1560613202238" expanded="true" signature="3013:3177" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="3066:3167" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="3251:3415" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="3304:3405" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="3485:3641" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="3534:3631" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="3713:3877" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="3766:3867" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="3944:4225" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="4002:4215" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="4292:4572" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="4350:4562" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="4639:4919" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="4697:4909" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="5002:5009" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="5015:5299" ph="/// Update is called once per frame ... " />
+            <marker date="1560613202238" expanded="true" signature="5318:7089" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="5407:5418" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="5516:5527" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="5621:5632" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="5728:5739" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="5830:6187" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="5888:6177" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="5934:6163" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="6278:6635" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="6336:6625" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="6382:6611" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="6726:7083" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="6784:7073" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="6830:7059" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="7095:7383" ph="/// can be call in all unity scene to play specific sound effect ... " />
+            <marker date="1560613202238" expanded="true" signature="7451:9438" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="7587:9134" ph="{...}" />
+            <marker date="1560613202238" expanded="true" signature="9163:9432" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
